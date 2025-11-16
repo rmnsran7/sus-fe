@@ -1,0 +1,22 @@
+# Node.js dependencies
+/node_modules
+
+# Vite build output
+/dist
+
+# Vite cache
+.vite/
+
+# Environment Variables (CRITICAL)
+.env
+.env.local
+.env.*.local
+
+# IDE & OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Log files
+*.log
+npm-debug.log*
